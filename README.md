@@ -1,6 +1,6 @@
 # Hi, I'm Gabriella Lacaille! 👋
 
-### Computer Science Undergraduate @ UERJ
+### Computer Science Undergraduate UERJ
 
 I'm a Computer Science undergraduate at the State University of Rio de Janeiro (UERJ), Brazil, and a Google Student Ambassador.
 
